@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68" started-at="2022-02-05T19:08:22 MSK" finished-at="2022-02-05T19:08:22 MSK">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68" started-at="2022-02-05T19:08:22 MSK" finished-at="2022-02-05T19:08:22 MSK">
+      <class name="online_tusur.unit_online_tusur.NewTestNGParam">
+        <test-method status="PASS" signature="params(int,java.lang.String)[pri:0, instance:online_tusur.unit_online_tusur.NewTestNGParam@704a52ec]" name="params" duration-ms="10" started-at="2022-02-05T19:08:22 MSK" finished-at="2022-02-05T19:08:22 MSK">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- params -->
+        <test-method status="PASS" signature="testAverAge(java.lang.String,java.lang.String)[pri:0, instance:online_tusur.unit_online_tusur.NewTestNGParam@704a52ec]" name="testAverAge" duration-ms="1" started-at="2022-02-05T19:08:22 MSK" data-provider="dataAges" finished-at="2022-02-05T19:08:22 MSK">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18,19,20,21,22,23,24,25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+        <test-method status="PASS" signature="testAverAge(java.lang.String,java.lang.String)[pri:0, instance:online_tusur.unit_online_tusur.NewTestNGParam@704a52ec]" name="testAverAge" duration-ms="1" started-at="2022-02-05T19:08:22 MSK" data-provider="dataAges" finished-at="2022-02-05T19:08:22 MSK">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[26,27,28,29,30,31,32,33,34,35,36]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+        <test-method status="PASS" signature="testAverAge(java.lang.String,java.lang.String)[pri:0, instance:online_tusur.unit_online_tusur.NewTestNGParam@704a52ec]" name="testAverAge" duration-ms="1" started-at="2022-02-05T19:08:22 MSK" data-provider="dataAges" finished-at="2022-02-05T19:08:22 MSK">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[37,38,39,40,41,42,43,44,45,46,47,48,49]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAverAge -->
+      </class> <!-- online_tusur.unit_online_tusur.NewTestNGParam -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
